@@ -74,7 +74,7 @@ export const projects = [
     title: "Prayer Time Tracker app",
     des: "Prayer time tracker using React, integrating with an API to provide accurate prayer times for different countries.",
     img: "/p1.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/boot.png"],
+    iconLists: ["/re.svg", "/ts.svg", "/boot.png"],
     link: "https://3x6mr.github.io/prayer-app/",
   },
   {
