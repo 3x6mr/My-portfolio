@@ -2,7 +2,10 @@ import React from "react";
 import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
 import { gridItems } from "@/data/gridData";
 
-export const Grid = () => {
+
+
+
+export const Grid = () =>{
   return (
     <section id="about">
       <BentoGrid>

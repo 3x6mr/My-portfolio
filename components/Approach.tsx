@@ -1,9 +1,8 @@
 "use client";
 import React from "react";
-
 import { AnimatePresence, motion } from "framer-motion";
 import { CanvasRevealEffect } from "@/components/ui/CanvasRevealEffect";
-import { div } from "three/examples/jsm/nodes/Nodes.js";
+
 
 const Approach = () => {
   return (
@@ -32,6 +31,7 @@ const Approach = () => {
           every step of the way."
           icon={<AceternityIcon order="Phase 2" />}
         >
+        
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
